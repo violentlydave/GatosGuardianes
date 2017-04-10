@@ -1,3 +1,4 @@
+#!/bin/bash
 DATE=`date +%Y%m%d-%H%M%S`
 FILE="captures/$DATE.pcap"
 INT="wlan1"

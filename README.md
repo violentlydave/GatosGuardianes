@@ -2,6 +2,8 @@
 ## GatosGuardianes
 #
 
+evildomains_dayof.pdf	= Slides from "We're All Scriptkiddies: Evil Domains/Gatos Guardianes"
+
 == BLUETOOTH
 eddystonebeacon.sh 	= generate eddystone URL beacon (wip)
 find_bt_hciname.sh 	= check for bluetooth addy (mac+1) via wifi mac
@@ -18,7 +20,7 @@ mdkdowngradetest.sh 	= test downgrades on wifi
 nmapme.sh		= nmap -sP local network
 paper-- 		= scripts to detect HP printers w/ wireless direct on, and do stuff
 
-== Video? (detect cameras on net?)
+== Video
 dropkick.sh             = Detect and deauth wireless cameras
 
 == VOICE
