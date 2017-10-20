@@ -1,5 +1,4 @@
-##
-# GatosGuardianes
+# GatosGuardianes #
 #
 
 evildomains_dayof.pdf	- Slides from "We're All Scriptkiddies: Evil Domains/Gatos Guardianes"
