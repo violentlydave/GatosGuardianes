@@ -24,6 +24,8 @@ mdkdowngradetest.sh 	- test downgrades on wifi
 
 nmapme.sh		- nmap -sP local network
 
+house_hide.py		- Spew out random probes from fake IoT devices
+
 paper-- 		- scripts to detect HP printers w/ wireless direct on, and do stuff
 
 ### Video
