@@ -1,5 +1,5 @@
 # GatosGuardianes #
-#
+# These scripts are to automate certain tasks that may be a pain to execute w/ an "on screen" keyboard:
 
 evildomains_dayof.pdf	- Slides from "We're All Scriptkiddies: Evil Domains/Gatos Guardianes"
 
